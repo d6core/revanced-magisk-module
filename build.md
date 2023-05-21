@@ -1,7 +1,8 @@
 YouTube: 18.19.36  
 YouTube-Extended: 18.17.43  
-Music-arm64: 5.39.52  
-Music-arm: 5.39.52  
+Music (arm64-v8a): 5.39.52  
+Music (arm-v7a): 5.39.52  
+Music-Extended (arm64-v8a): 6.02.53  
 Twitter: 9.89.0-release.1  
 Twitch: 14.6.1  
 TikTok: 27.8.3  
@@ -12,9 +13,6 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to 
 
 ---
 Changelog:  
-CLI: j-hc/revanced-cli-2.22.0-all.jar  
-Integrations: inotia00/revanced-integrations-0.107.10.apk  
-Patches: inotia00/revanced-patches-2.173.10.jar  
 
 YouTube
 ==
@@ -40,10 +38,6 @@ YouTube Music
 - [European Countries](https://crowdin.com/project/revancedextendedeu)
 - [Other Countries](https://crowdin.com/project/revancedextended)
 ---
-  
-CLI: j-hc/revanced-cli-2.22.0-all.jar  
-Integrations: revanced/revanced-integrations-0.107.0.apk  
-Patches: revanced/revanced-patches-2.173.0.jar  
 
 ### [2.173.0](https://github.com/revanced/revanced-patches/compare/v2.172.0...v2.173.0) (2023-05-02)
 ### Features
@@ -54,5 +48,4 @@ Patches: revanced/revanced-patches-2.173.0.jar
 * **youtube:** bump compatibility to `18.16.37` ([fe3fdd5](https://github.com/revanced/revanced-patches/commit/fe3fdd5c6cb186bcebc2f86b1d5b597109b25cb6))
 * **youtube:** support version `18.16.37` ([8beb5ea](https://github.com/revanced/revanced-patches/commit/8beb5ea860284be915c0ef0c6039821a50c14fa8))
 
----
-    
+---  
