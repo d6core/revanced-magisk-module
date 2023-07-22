@@ -1,12 +1,10 @@
 YouTube-Extended: 18.25.40  
-YouTube: 18.27.34  
-Music (arm64-v8a): 6.10.51  
-Music-Extended (arm64-v8a): 6.10.51  
-Music (arm-v7a): 6.10.51  
-Music-Extended (arm-v7a): 6.10.51  
-Twitter: 9.71.0-release.0  
+YouTube: 18.27.35  
+Music (arm64-v8a): 6.11.52  
+Music-Extended (arm64-v8a): 6.11.52  
+Twitter: 9.98.0-release.0  
 Twitch: 15.4.1  
-TikTok: 30.4.5  
+TikTok: 30.5.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
@@ -49,8 +47,23 @@ Etc
 - [Other Countries](https://crowdin.com/project/revancedextended)
 ---
 
-### [2.184.0](https://github.com/revanced/revanced-patches/compare/v2.183.1...v2.184.0) (2023-07-11)
+### [2.186.0](https://github.com/ReVanced/revanced-patches/compare/v2.185.0...v2.186.0) (2023-07-21)
+
+
+### Bug Fixes
+
+* **Tiktok - Settings:** get instruction registers dynamically ([#2676](https://github.com/ReVanced/revanced-patches/issues/2676)) ([b34e45b](https://github.com/ReVanced/revanced-patches/commit/b34e45b6dafad8e9d567ad65f58a182b8cc04676))
+* **YouTube - Spoof app version:** update target app version description ([#2666](https://github.com/ReVanced/revanced-patches/issues/2666)) ([307442e](https://github.com/ReVanced/revanced-patches/commit/307442e654ff5486656319d91e4a5f5fb2b92651))
+* **YouTube - Theme:** allow setting no background color ([8a4e77a](https://github.com/ReVanced/revanced-patches/commit/8a4e77a290a61a1caf93eb8bccaf728c84a3ef53))
+* **YouTube - Theme:** apply custom seekbar color to shorts ([#2670](https://github.com/ReVanced/revanced-patches/issues/2670)) ([1f6fe3d](https://github.com/ReVanced/revanced-patches/commit/1f6fe3da4284fd768057ef068c7ddf88d3a11049))
+
+
 ### Features
-* **youtube/custom-branding:** update logo ([e2187f3](https://github.com/revanced/revanced-patches/commit/e2187f33ff82fce40592517aef31cb191b42987c))
+
+* **Twitter:** remove `Hide view stats` patch ([f0d3800](https://github.com/ReVanced/revanced-patches/commit/f0d38001b34db63f212209afb91eebf59dad2b24))
+* **Youtube - Theme:** add a switch to enable/disable custom seekbar color ([#2663](https://github.com/ReVanced/revanced-patches/issues/2663)) ([5c39985](https://github.com/ReVanced/revanced-patches/commit/5c39985888cdfe3acfdd8811ff9b6f80e243704e))
+
+
+
 
 ---  
